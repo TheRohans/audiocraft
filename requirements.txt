@@ -1,7 +1,7 @@
 # please make sure you have already a pytorch install that is cuda enabled!
 av==11.0.0
 einops
-flashy>=0.0.1
+flashy @ git+https://github.com/facebookresearch/flashy.git
 hydra-core>=1.1
 hydra_colorlog
 julius
